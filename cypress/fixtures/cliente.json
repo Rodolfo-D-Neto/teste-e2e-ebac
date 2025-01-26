@@ -1,0 +1,11 @@
+{
+    "firstName": "João",
+    "lastName": "Silva",
+    "email": "joao.silva@example.com",
+    "address": "Rua das Flores, 123",
+    "city": "São Paulo",
+    "state": "SP",
+    "zipCode": "01010-010",
+    "phone": "11987654321"
+  }
+  
